@@ -12,6 +12,8 @@ All these things and more are done through `git`, a program written by the same 
 
 Download and install git from https://git-scm.com/downloads
 
+And create an account a https://github.com
+
 Then go through the git book: https://git-scm.com/book/en/v2
 
 This is an invaluable tool for programming. Make sure you play around with it and aren't just reading it. Make it fun!
