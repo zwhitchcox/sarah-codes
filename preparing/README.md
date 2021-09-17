@@ -6,4 +6,5 @@ The following are general coding utilities and concepts you will need to underst
 1. [Problem-Solving](problem-solving)
 1. [Environment](env)
 1. [Shell](shell)
+1. [Shell tools](shell-tools)
 1. [Git](git)
