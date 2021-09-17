@@ -34,6 +34,4 @@ Your browser is capable of requesting files directly from your computer. But ins
 
 You can test this functionality by dragging a plain text file to your browser. Find or create a plain text file (with a `.txt` extension) and drag it to your web browser. The address should have the scheme `file://`.
 
-
-
 The scheme (e.g. `http://`, `file://`, `http://`, etc.) tells the browser how the resource should be handled.
