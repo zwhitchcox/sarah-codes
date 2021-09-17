@@ -9,3 +9,4 @@ The following are general coding utilities and concepts you will need to underst
 1. [Shell tools](shell-tools)
 1. [Git](git)
 1. [Unix](unix)
+1. [C](c)
